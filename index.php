@@ -8,5 +8,6 @@
 
 echo "test, ";
 echo "test2, ";
-echo "test 3, "
+echo "test 3, ";
+
 
